@@ -1,2 +1,3 @@
 # ComSci_Project1_C
-C++ project 1 
+
+Developing problem-solving skills, using single branched ifs to check validity of input, and using multi-branched decision structures.!
